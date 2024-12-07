@@ -7,4 +7,4 @@ const result = list.some((item, index, original) => {
     return true
   }
 })
-console.log('result',result)
+console.log('result', result)
